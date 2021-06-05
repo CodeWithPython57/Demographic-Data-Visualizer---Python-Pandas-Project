@@ -1,2 +1,6 @@
 # Demographic-Data-Visualizer---Python-Pandas-Project
-In this challenge you must anaylize demographic data using Pandas. You are given a dataset of demographic data. Here is a sample of what the data looks like:     age         workclass  fnlwgt  education  education-num      marital-status  ...     sex capital-gain capital-loss hours-per-week  native-country  salary 0   39         State-gov   77516  Bachelors             13       Never-married  ...    Male         2174            0             40   United-States   &lt;=50K 1   50  Self-emp-not-inc   83311  Bachelors             13  Married-civ-spouse  ...    Male            0            0             13   United-States   &lt;=50K 2   38           Private  215646    HS-grad              9            Divorced  ...    Male            0            0             40   United-States   &lt;=50K 3   53           Private  234721       11th              7  Married-civ-spouse  ...    Male            0            0             40   United-States   &lt;=50K 4   28           Private  338409  Bachelors             13  Married-civ-spouse  ...  Female            0            0             40            Cuba   &lt;=50K You must use Pandas to answer the following questions:  How many of each race (race feature) are represented in this dataset? What is the average age (age feature) of men? What is the percentage of United St
+Data Analysis of  demographic data using Python pandas library. 
+
+Following Analysis you can analyse using this dataset.
+
+
